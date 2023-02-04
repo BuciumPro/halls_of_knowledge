@@ -11,7 +11,7 @@
 - [Learn How To Type](https://www.typing.com/student/lessons)
 - [How Do Computers Work?](https://youtu.be/7J7X7aZvMXQ)
 
-## Electricity
+### Electricity
 - [How to Make Lemon Batteries](https://www.youtube.com/watch?v=EA751OyNLOk&ab_channel=BranchEducation)
 - [How Does SSD Work](https://www.youtube.com/watch?v=5Mh3o886qpg&ab_channel=BranchEducation)
 
@@ -52,6 +52,8 @@
 ### Military Science
 - [Abram Tanks](https://www.youtube.com/watch?v=SdL55HWNPRM)
 - [Pave Hawk Helicopter](https://www.youtube.com/watch?v=qf29pqPWDOU)
+- [How a Pump Shotgun Works](https://www.youtube.com/watch?v=21uh28Z77Xg)
+- [How an AR-15 Works](https://www.youtube.com/watch?v=omv85cLfmxU)
 
 ### Ted Talk
 - [Alex - 44th minute](https://www.youtube.com/watch?v=-ZjEd1r5l60)
